@@ -1,2 +1,2 @@
 # Introduction
-These file use logistic regression to classify binary class with labels -1 and 1, and use Newton’s Method to optimize the theta.
+These files use logistic regression to classify binary class with labels -1 and 1, and use Newton’s Method to optimize the theta. The codes correspond to the 1st problem for the CS229 machine learning class taught by Prof. Andrew Ng in Stanford.
